@@ -24,8 +24,6 @@ Este é um projeto de uma página web para a Gerência Business Intelligence, ch
 
 - Nenhuma dependência externa além das imagens e arquivos CSS incluídos no projeto.
 
-## Funcionalidades Detalhadas
-
 ### Links
 
 - Gerência DIVAR: Link para a página divar.php.
@@ -37,7 +35,7 @@ Este é um projeto de uma página web para a Gerência Business Intelligence, ch
 
 ## Autor
 
-Desenvolvido por Enge.Nilton.
+Desenvolvido por Engenheiro de Software (Nilton)
 
 ## Licença
 
