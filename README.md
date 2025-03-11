@@ -33,12 +33,11 @@ Este é um projeto de uma página web para a Gerência Business Intelligence, ch
 
 ### Informações
 
-- Site BB: Informações sobre empréstimos pessoais no Banco do Brasil.
 - Dialoga 2.0: Informações sobre gráficos de dispersão e matriz de competências.
 
 ## Autor
 
-Desenvolvido por Nilton.
+Desenvolvido por Enge.Nilton.
 
 ## Licença
 
